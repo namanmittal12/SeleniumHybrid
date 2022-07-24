@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E-Movies">
+
+
+
+    <test verbose="2" preserve-order="true" name="TC_01.java">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="com.movie.hybridframework.testCases.TC_01">
+                <methods>
+                    <include name="MovieTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

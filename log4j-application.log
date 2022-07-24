@@ -1,0 +1,7 @@
+2022-07-24 23:08:22,047  INFO [main] eMovies:49 - webDriver-manager invoked the browser
+ 2022-07-24 23:08:30,512  INFO [main] eMovies:32 - opening base url: https://www.imdb.com/
+ 2022-07-24 23:08:49,383  INFO [main] eMovies:39 - search operation performed successfully
+ 2022-07-24 23:08:52,717  INFO [main] eMovies:46 - opening base url: https://en.wikipedia.org/
+ 2022-07-24 23:08:57,187  INFO [main] eMovies:50 - search operation performed successfully
+ 2022-07-24 23:09:01,724  INFO [main] eMovies:55 - webDriver-manager closed the browser
+ 
